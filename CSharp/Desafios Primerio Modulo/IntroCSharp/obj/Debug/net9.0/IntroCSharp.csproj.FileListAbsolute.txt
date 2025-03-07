@@ -1,0 +1,14 @@
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/bin/Debug/net9.0/IntroCSharp
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/bin/Debug/net9.0/IntroCSharp.deps.json
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/bin/Debug/net9.0/IntroCSharp.runtimeconfig.json
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/bin/Debug/net9.0/IntroCSharp.dll
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/bin/Debug/net9.0/IntroCSharp.pdb
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/obj/Debug/net9.0/IntroCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/obj/Debug/net9.0/IntroCSharp.AssemblyInfoInputs.cache
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/obj/Debug/net9.0/IntroCSharp.AssemblyInfo.cs
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/obj/Debug/net9.0/IntroCSharp.csproj.CoreCompileInputs.cache
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/obj/Debug/net9.0/IntroCSharp.dll
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/obj/Debug/net9.0/refint/IntroCSharp.dll
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/obj/Debug/net9.0/IntroCSharp.pdb
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/obj/Debug/net9.0/IntroCSharp.genruntimeconfig.cache
+/Users/lucasrveni/Visual Studio Code/CsharpProjects/IntroCSharp/obj/Debug/net9.0/ref/IntroCSharp.dll
